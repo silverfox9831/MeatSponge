@@ -1,9 +1,12 @@
 @font-face { 
     font-family: customFont;
-    src: url(Dependencies/CuteAuroraDisplay-K7WwZ.ttf);
+    src: url(Dependencies/Bebas-Regular.ttf);
 }
 h1, h2, .custom-text {
     font-family: customFont;
+}
+.custom-text2 {
+    font-family: Helvetica, Arial, sans-serif;
 }
 .img-resize{
     height: 62px; width: 107px;
